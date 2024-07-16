@@ -1,0 +1,16 @@
+{
+  "name": "asistant",
+  "version": "1.0.0",
+  "main": "blog.js",
+  "scripts": {
+    "test": "node blog.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}
